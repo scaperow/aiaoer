@@ -157,10 +157,10 @@ a.qq:hover {font-size: 14px;color: #CCCCCC;}
 .clear{ clear:both;}
 
 
-.list p{font:12px/30px "ËÎÌå"; color:#fff;margin-left:0px; width:98%; text-align:right; border-bottom:1px dashed #666; padding-right:10px; height:30px; overflow:hidden; float:left;}
-.list p a{font:12px/30px "ËÎÌå"; color:#fff; text-decoration:none;  width:75%; overflow:hidden; text-align:left; height:30px; float:left;}
-.list p a:hover{font:12px/30px "ËÎÌå"; color:#fff; text-decoration:underline; overflow:hidden;}
+.list p{font:12px/30px "ï¿½ï¿½ï¿½ï¿½"; color:#fff;margin-left:0px; width:98%; text-align:right; border-bottom:1px dashed #666; padding-right:10px; height:30px; overflow:hidden; float:left;}
+.list p a{font:12px/30px "ï¿½ï¿½ï¿½ï¿½"; color:#fff; text-decoration:none;  width:75%; overflow:hidden; text-align:left; height:30px; float:left;}
+.list p a:hover{font:12px/30px "ï¿½ï¿½ï¿½ï¿½"; color:#fff; text-decoration:underline; overflow:hidden;}
 .tit{ margin:0px auto 10px 0px;}
 
-.xinxi{ float:left;font:12px/22px "ËÎÌå"; color:#fff; width:350px; margin-left:0px;}
+.xinxi{ float:left;font:12px/22px "ï¿½ï¿½ï¿½ï¿½"; color:#fff; width:350px; margin-left:0px;}
 .xinxi p{color:#fff;}
